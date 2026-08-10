@@ -1,1 +1,3 @@
 # Recyclable-Intelligent-System---RIS
+RIS es un prototipo de caneca inteligente de código abierto diseñado para optimizar la gestión de residuos en entornos comunitarios y educativos. Utiliza visión por computadora e inteligencia artificial (ResNet-50) para clasificar automáticamente 4 tipos de residuos en 3 compartimentos físicos, operando de manera autónoma y 100% offline con energía solar.
+A diferencia de otros sistemas, RIS fomenta una experiencia de usuario positiva, eliminando las penalizaciones y recompensando el reciclaje correcto y limpio a través de un sistema de incentivos (EcoCoins) sin puntos negativos.
